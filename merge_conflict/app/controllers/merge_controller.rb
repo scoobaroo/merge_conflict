@@ -8,4 +8,7 @@ class MergeController < ApplicationController
   def merge_surge
     p "merge surge baby!"
   end
+  def sucks_to_merge
+    p "fuck my merge!"
+  end
 end
